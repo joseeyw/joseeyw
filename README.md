@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseeyw
 - 👀 I’m interested in Software engineering and development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang, microservices architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
